@@ -10,8 +10,6 @@ A React-based web application that enhances low-resolution or blurry images usin
 |--------|--------|
 | ![](demo/before.jpg) | ![](demo/after.jpg) |
 
-Place your demo images in:
-
 
 ---
 
@@ -26,8 +24,6 @@ Place your demo images in:
 ---
 
 ## 📦 Pretrained Models
-
-Place pretrained models inside:
 
 
 Available models:
