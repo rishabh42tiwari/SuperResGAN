@@ -5,33 +5,6 @@ After processing, the app generates a high-resolution version of the image that 
 
 ---
 
-## 🧩 Use Cases
-
-SuperGenGAN Image Enhancer can be used in a variety of real-world scenarios where image clarity and resolution matter:
-
-- **Old Photo Restoration**  
-  Enhance scanned photographs, childhood pictures, or historical images.
-
-- **Mobile Photography Upscaling**  
-  Improve low-resolution or compressed mobile photos taken in poor lighting.
-
-- **Social Media Content**  
-  Convert blurry or low-quality images into sharp visuals suitable for posting.
-
-- **Academic & Research Visuals**  
-  Enhance images for reports, presentations, or datasets requiring higher clarity.
-
-- **E-commerce & Product Images**  
-  Upscale small or compressed product photos for better visual appeal.
-
-- **Profile Pictures & Portraits**  
-  Sharpen selfies or profile pictures for better online presence.
-
-- **AI/ML Preprocessing**  
-  Prepare low-quality dataset images before feeding them to machine learning models.
-
----
-
 ## 🔍 Sample Enhancement Results
 
 Below is an example showing how the SuperGenGAN model converts a low-resolution image into a high-resolution output:
@@ -58,12 +31,31 @@ We provide two ESRGAN-based SuperGenGAN models:
 
 ---
 
-## 📚 Project Purpose
+## 🎯 Use Cases
 
-- Demonstrates how a React app can integrate with a super-resolution ML model  
-- Provides a simple Before/After comparison UI  
-- Uses retrained **SuperGenGAN (ESRGAN-based)** models  
-- Clean structure suitable for demos, learning, or extensions
+- Enhance old, blurry, or low-resolution photos  
+- Improve image quality for social media or personal use  
+- Upscale images for printing or digital artwork  
+- Restore clarity in screenshots or compressed images  
+- Quickly generate high-resolution outputs without complex tools
+
+---
+
+## 🚀 Getting Started
+
+To run this application locally:
+
+In the project directory, run:
+
+### **npm install**
+Installs all required dependencies.
+
+### **npm start**
+Starts the app in development mode.  
+Open **http://localhost:3000** in your browser.
+
+The page reloads automatically when you make changes.
+
 
 ---
 
