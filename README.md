@@ -11,7 +11,7 @@ Below is an example showing how the SuperGenGAN model converts a low-resolution 
 
 | Low Resolution Input | High Resolution Output |
 |----------------------|------------------------|
-| ![](demo/before.jpg) | ![](demo/after.jpg) |
+| ![](results/before.png) | ![](demo/after.jpg) |
 
 
 ---
