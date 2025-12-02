@@ -14,15 +14,7 @@ The application allows users to upload an image, process it through the super-re
 
 ---
 
-## 📁 Folder Structure
-
-
----
-
 ## 🤖 Machine Learning Models
-
-Place pretrained models inside:
-
 
 We provide two ESRGAN-based SuperGenGAN models:
 
@@ -39,11 +31,57 @@ We provide two ESRGAN-based SuperGenGAN models:
 
 ## 🚀 Getting Started
 
-This project was built with **Create React App**.
+In the project directory, you can run:
 
-### 1️⃣ Install Dependencies
-```bash
-npm install
+---
 
+### **npm start**
+
+
+Runs the app in development mode.  
+Open **http://localhost:3000** to view it in your browser.
+
+The page will reload when you make changes.  
+You may also see lint errors in the console.
+
+---
+
+### **npm test**
+
+
+
+
+Launches the test runner in interactive watch mode.
+
+---
+
+### **npm run build**
+
+
+Builds the app for production into the `build` folder.  
+The build is minified and filenames include hashes.  
+Your app is ready to be deployed!
+
+---
+
+### **npm run eject** (Optional)
+
+
+> **Note:** This is a one-way operation. Once you eject, you cannot go back.
+
+This command copies all configuration files (Webpack, Babel, ESLint, etc.) so you have full control over your development environment.
+
+---
+
+## 📚 Project Purpose
+
+- Demonstrates how a React app can integrate with a super-resolution ML model  
+- Provides a simple Before/After comparison UI  
+- Uses retrained **SuperGenGAN (ESRGAN-based)** models  
+- Clean structure suitable for demos, learning, or extensions
+
+---
+
+### ⭐ If you find this project useful, consider giving it a star!
 
 
