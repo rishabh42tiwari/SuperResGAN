@@ -5,6 +5,33 @@ After processing, the app generates a high-resolution version of the image that 
 
 ---
 
+## 🧩 Use Cases
+
+SuperGenGAN Image Enhancer can be used in a variety of real-world scenarios where image clarity and resolution matter:
+
+- **Old Photo Restoration**  
+  Enhance scanned photographs, childhood pictures, or historical images.
+
+- **Mobile Photography Upscaling**  
+  Improve low-resolution or compressed mobile photos taken in poor lighting.
+
+- **Social Media Content**  
+  Convert blurry or low-quality images into sharp visuals suitable for posting.
+
+- **Academic & Research Visuals**  
+  Enhance images for reports, presentations, or datasets requiring higher clarity.
+
+- **E-commerce & Product Images**  
+  Upscale small or compressed product photos for better visual appeal.
+
+- **Profile Pictures & Portraits**  
+  Sharpen selfies or profile pictures for better online presence.
+
+- **AI/ML Preprocessing**  
+  Prepare low-quality dataset images before feeding them to machine learning models.
+
+---
+
 ## 🔍 Sample Enhancement Results
 
 Below is an example showing how the SuperGenGAN model converts a low-resolution image into a high-resolution output:
