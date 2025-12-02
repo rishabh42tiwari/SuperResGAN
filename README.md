@@ -1,14 +1,16 @@
 # 🖼️ SuperGenGAN Image Enhancer
 
-A React-based web application that transforms low-resolution or blurry images into high-quality outputs using a retrained SuperGenGAN (ESRGAN-based) super-resolution model.
-Users can upload a degraded image, process it through the ML model, and instantly compare the Before/After results through a clean and intuitive interface.
+This React application allows users to upload any low or degraded image and enhance it using a retrained SuperGenGAN model based on the ESRGAN architecture.
+After processing, the app generates a high-resolution version of the image that the user can easily download.
 
 ---
 
-## 🔍 Demo (Before & After)
+## 🔍 Sample Enhancement Results
 
-| Before | After |
-|--------|--------|
+Below is an example showing how the SuperGenGAN model converts a low-resolution image into a high-resolution output:
+
+| Low Resolution Input | High Resolution Output |
+|----------------------|------------------------|
 | ![](demo/before.jpg) | ![](demo/after.jpg) |
 
 
