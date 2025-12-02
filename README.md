@@ -7,11 +7,13 @@ After processing, the app generates a high-resolution version of the image that 
 
 ## 🔍 Sample Enhancement Results
 
-Below is an example showing how the SuperGenGAN model converts a low-resolution image into a high-resolution output:
+Example of how the model enhances image quality:
 
-| Low Resolution Input | High Resolution Output |
-|----------------------|------------------------|
-| ![](results/before.png) | ![](results/after.png) |
+<p align="center">
+  <img src="results/before.png" width="45%" />  
+  &nbsp;&nbsp;&nbsp;
+  <img src="results/after.png" width="45%" />
+</p>
 
 
 ---
